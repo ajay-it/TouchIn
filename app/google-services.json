@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994002664252",
+    "project_id": "touchin-f63ab",
+    "storage_bucket": "touchin-f63ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994002664252:android:96cdd991192839c1d5fc39",
+        "android_client_info": {
+          "package_name": "com.example.touchin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994002664252-1n4bdrrhvorf92atnd95biasurb1ecbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEaYjJJaR9fVHSIjHk4HmESQEc-TxgDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994002664252-1n4bdrrhvorf92atnd95biasurb1ecbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
