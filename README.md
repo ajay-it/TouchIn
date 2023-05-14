@@ -1,2 +1,5 @@
 # TouchIn
 TouchIn is an app for easy communication where users can register and login using email and phone number. Users can provide their name, location, and organization during registration. Upon successful login, all users are shown in the feed. The app also features a logout option.
+
+Detailed description
+TouchIn is a powerful mobile app designed for seamless user registration and login. The app provides a user-friendly interface for registering with basic information including name, phone, email, location, and organization. Upon successful registration, users can easily log in using their email and phone number as credentials. The app also offers a feed that displays all users who have registered and logged in, which can be accessed after logging in. Additionally, users can log out easily using the dedicated logout button in the app's menu. TouchIn's features are designed to make user registration and login hassle-free and convenient, ultimately providing an excellent user experience.
